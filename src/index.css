@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Public+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+/* MazzardH bold */
+
+@font-face {
+  font-family: "MazzardH";
+  src: url('./Assets/Fonts/MazzardH-Bold.otf');
+  /* src: url('./Assets/Fonts/MazzardH-Bold.otf?#iefix') format('embedded-opentype'); */
+  font-weight: 700;
+  font-style: normal;
+}
+/* MazzardH extraBold */
+
+@font-face {
+  font-family: "MazzardH";
+  src: url('./Assets/Fonts/MazzardH-ExtraBold.otf');
+  /* src: url('./Assets/Fonts/MazzardH-ExtraBold.otf?#iefix') format('embedded-opentype'); */
+  font-weight: 800;
+  font-style: normal;
+}
+/* MazzardH black */
+
+@font-face {
+  font-family: "MazzardH";
+  src: url('./Assets/Fonts/MazzardH-Black.otf');
+  /* src: url('./Assets/Fonts/MazzardH-Black.otf?#iefix') format('embedded-opentype'); */
+  font-weight: 900;
+  font-style: normal;
+}
+body {
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Public Sans',"MazzardH","Poppins" sans-serif; */
+  font-family: 'Public Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

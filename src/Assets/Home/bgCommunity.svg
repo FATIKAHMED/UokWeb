@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="969" viewBox="0 0 1920 969">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eaebed" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.38"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_40" data-name="Rectangle 40" width="237" height="266" transform="translate(0 4734)" fill="#100082"/>
+    </clipPath>
+  </defs>
+  <g id="Group_139" data-name="Group 139" transform="translate(0 -5715)">
+    <rect id="Rectangle_29" data-name="Rectangle 29" width="1920" height="969" transform="translate(0 5715)" fill="#292f75"/>
+    <rect id="BG" width="1920" height="193" transform="translate(0 6491)" opacity="0.8" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <g id="Group_72" data-name="Group 72" transform="translate(0 981)">
+      <g id="Mask_Group_12" data-name="Mask Group 12" clip-path="url(#clip-path)">
+        <g id="Group_71" data-name="Group 71" transform="translate(-295.826 4495.786)" opacity="0.5">
+          <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(29.708 29.708)" fill="none" stroke="#06d6a0" stroke-width="5" opacity="0.5">
+            <circle cx="217.506" cy="217.506" r="217.506" stroke="none"/>
+            <circle cx="217.506" cy="217.506" r="215.006" fill="none"/>
+          </g>
+          <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(12.732 12.732)" fill="none" stroke="#06d6a0" stroke-width="3" opacity="0.5">
+            <circle cx="234.482" cy="234.482" r="234.482" stroke="none"/>
+            <circle cx="234.482" cy="234.482" r="232.982" fill="none"/>
+          </g>
+          <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(0)" fill="none" stroke="#06d6a0" stroke-width="1" opacity="0.5">
+            <circle cx="247.214" cy="247.214" r="247.214" stroke="none"/>
+            <circle cx="247.214" cy="247.214" r="246.714" fill="none"/>
+          </g>
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="198.408" cy="198.408" r="198.408" transform="translate(48.806 48.806)" fill="#06d6a0" opacity="0.5"/>
+        </g>
+      </g>
+    </g>
+    <path id="Rectangle_30" data-name="Rectangle 30" d="M0,0H1106a0,0,0,0,1,0,0V491a0,0,0,0,1,0,0H260A260,260,0,0,1,0,231V0A0,0,0,0,1,0,0Z" transform="translate(814 5715)" fill="#06d6a0"/>
+  </g>
+</svg>
